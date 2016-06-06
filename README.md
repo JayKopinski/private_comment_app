@@ -1,6 +1,6 @@
 :warning: *Use of this software is subject to important terms and conditions as set forth in the License file* :warning:
 
-# Private Comment App
+# Private Comments App
 
 ## Description:
 
@@ -21,3 +21,6 @@ The app is designed to create a way for Zendesk agents easily add private commen
 ## Set-up/installation instructions:
 
 Install and activate the app, then open a ticket.
+
+## Screenshot(s):
+![screenshot-1](https://d1eipm3vz40hy0.cloudfront.net/images/p-apps-marketplace/apps/36500/screenshot-0.png)
